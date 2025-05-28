@@ -307,5 +307,16 @@
     "location": "Chennai",
     "communityName": "Code On JVM Chennai",
     "communityLogo": "https://i.ibb.co/5xSndqPW/Code-On-Chennai-JVM.png"
+  },
+  {
+    "eventName": "Agentic AI With Google",
+    "eventDescription": "To know more about Agentic AI concepts with real time experience from experts",
+    "eventDate": "2025-05-31",
+    "eventTime": "10:00",
+    "eventVenue": "HCL Technologies, ELCOT IT Park, Near PandiKovil, Madurai, 625020 ",
+    "eventLink": "https://gdg.community.dev/events/details/google-gdg-cloud-madurai-presents-agentic-ai-with-google/",
+    "location": "Madurai",
+    "communityName": "GDG Cloud Madurai",
+    "communityLogo": "https://i.ibb.co/ynkrJnD4/gdglogo-0229df09.png"
   }
 ]
