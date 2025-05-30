@@ -329,5 +329,16 @@
     "location": "Chennai",
     "communityName": "Digital Ocean Community",
     "communityLogo": "https://i.ibb.co/DPVD4SBv/Digital-Ocean-Logo.png"
+  },
+  {
+    "eventName": "Firebase Studio Workshop: Build Your First App",
+    "eventDescription": "Join us for an exciting and hands-on workshop where we explore the powerful capabilities of Firebase Studio. Learn how to seamlessly integrate Firebase into your projects and build your first app with ease. Our expert facilitators will guide you through fundamental features like Firestore, Authentication, and Hosting. Whether you are a beginner or have some experience, this session is tailored to help you enhance your app development skills. Don't miss this opportunity to connect with like-minded developers and expand your tech skills. Sign up now to secure your spot and start building impactful applications!",
+    "eventDate": "2025-06-14",
+    "eventTime": "10:00",
+    "eventVenue": "Makersmadurai - 33 first floor, Arunachala arcade Madurai, 625004",
+    "eventLink": "https://gdg.community.dev/events/details/google-gdg-cloud-madurai-presents-agentic-ai-with-google/",
+    "location": "Madurai",
+    "communityName": "GDG Madurai",
+    "communityLogo": "https://i.ibb.co/ynkrJnD4/gdglogo-0229df09.png"
   }
 ]
