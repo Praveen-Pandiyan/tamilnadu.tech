@@ -362,6 +362,16 @@
     "location": "Chennai",
     "communityName": "Swift Chennai",
     "communityLogo": "https://i.ibb.co/pjGZgmHn/5ef8911a-11eb-4fb8-8dbf-a2c0c5a283d1.jpg"
+  },
+  {
+    "eventName": "Flutteristas - July Meetup (Singapengal in Flutter)",
+    "eventDescription": "NammaFlutter is a community of Flutter developers in Chennai. We are celebrating our 1st year anniversary with a meetup. Join us for a day of fun, learning, and networking with fellow Flutter enthusiasts.",
+    "eventDate": "2025-07-26",
+    "eventTime": "09:00",
+    "eventVenue": "Mako IT Lab, Taramani, Chennai",
+    "eventLink": "https://lu.ma/pe978u26",
+    "location": "Chennai",
+    "communityName": "NammaFlutter",
+    "communityLogo": "https://i.ibb.co/0R8qZ1qP/final-logo.png"
   }
-
 ]
